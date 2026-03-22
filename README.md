@@ -7,7 +7,7 @@ Official code release for the paper:
 CVM 2026  
 [Clément Jambon](https://clementjambon.github.io/), [Changwoon Choi](https://www.changwoon.info/), [Dongsu Zhang](https://dszhang.me/about), [Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/), [Young Min Kim](https://3d.snu.ac.kr/members)
 
-[[Paper]](https://arxiv.org/abs/2412.16253) · [[Supplemental Document]](assets/supplemental.pdf) · [Supplemental Video (Soon)]
+[[Webpage]](https://excellgen.github.io) · [[Paper]](https://arxiv.org/abs/2412.16253) · [[Supplemental Document]](assets/supplemental.pdf) · [Supplemental Video (Soon)]
 
 ## Requirements
 
