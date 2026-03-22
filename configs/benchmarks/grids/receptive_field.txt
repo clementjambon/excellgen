@@ -1,0 +1,6 @@
+configs/benchmarks/gca/receptive_field/template_mult=1_res=1_channels=16.yaml
+configs/benchmarks/gca/receptive_field/template_mult=2_res=1_channels=8.yaml
+configs/benchmarks/gca/receptive_field/template_mult=2_res=1_channels=16.yaml
+configs/benchmarks/gca/receptive_field/template_mult=2_res=1_channels=32.yaml
+configs/benchmarks/gca/receptive_field/template_mult=4_res=1_channels=16.yaml
+configs/benchmarks/gca/receptive_field/template_cgca_architecture.yaml

@@ -1,0 +1,6 @@
+[submodule "deps/fast-gca"]
+	path = deps/fast-gca
+	url = git@github.com:clementjambon/excellgen-gca.git
+[submodule "deps/polyscope-py"]
+	path = deps/polyscope-py
+	url = git@github.com:clementjambon/polyscope-py.git

@@ -1,0 +1,32 @@
+name: "gaussian_model"
+
+# -----------------------
+# Data
+# -----------------------
+
+data_dir: "$DATA_ROOT/dongsu/flower1"
+dataset_type: "nerfstudio"
+aabb: [-1.0, -1.0, -1.0, 1.0, 1.0, 1.0]
+factor: 2
+factor_dino: 4
+
+# -----------------------
+# Train
+# -----------------------
+
+feat_optimization_start: 0
+
+# -----------------------
+# Model
+# -----------------------
+
+feature_dim: 8
+
+# -----------------------
+# IO
+# -----------------------
+
+log_steps:  100
+ckpt_steps: 2000
+test_steps: 100000
+n_iterations: 25000

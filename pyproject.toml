@@ -1,0 +1,18 @@
+[project]
+authors = [{ name = "Clément Jambon", email = "clement.jambon@gmail.com" }]
+name = "sprim"
+version = "0.0.1"
+description = "Interactive Scene Authoring with Specialized Generative Primitives"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dynamic = ["dependencies"]
+
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

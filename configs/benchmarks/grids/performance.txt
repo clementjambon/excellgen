@@ -1,0 +1,1 @@
+configs/benchmarks/gca/receptive_field/template_mult=2_res=1_channels=16.yaml
