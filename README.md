@@ -4,10 +4,10 @@
 
 Official code release for the paper:  
 **ExCellGen: Fast, Controllable, Photorealistic 3D Scene Generation from a Single Real-World Exemplar**  
-CVM 2026  
+CVM 2026 (Journal Track)
 [Clément Jambon](https://clementjambon.github.io/), [Changwoon Choi](https://www.changwoon.info/), [Dongsu Zhang](https://dszhang.me/about), [Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/), [Young Min Kim](https://3d.snu.ac.kr/members)
 
-[[Webpage]](https://excellgen.github.io) · [[Paper]](https://arxiv.org/abs/2412.16253) · [[Supplemental Document]](assets/supplemental.pdf) · [Supplemental Video (Soon)]
+[[Webpage]](https://excellgen.github.io) · [[Paper]](https://arxiv.org/abs/2412.16253) · [[Supplemental Document]](assets/supplemental.pdf) · [[Supplemental Video]](https://drive.google.com/file/d/1Vk0-fi-O-M05PscU345jeNkryUGH0Xkw/view?usp=sharing)
 
 ## Requirements
 
